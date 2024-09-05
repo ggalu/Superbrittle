@@ -1,0 +1,7 @@
+gmsh==4.13.1
+matplotlib==3.8.4
+meshio==5.3.5
+numpy==2.1.1
+progressbar33==2.4
+scipy==1.14.1
+taichi==1.7.1
